@@ -1,0 +1,14 @@
+SECRET_KEY=uf8^tkltug+pu+8pup7&l*y7a^-3m9jrra8h)sp3t*%$*fnaui
+DB_USER=postgres
+DB_PASS=password
+DB_NAME=datahub
+HOST=localhost
+PORT=5434
+email_user=no-reply@decisionminds.com
+email_password=
+email_help=reply@decisionminds.com
+subject_for_password=password rest email for your datahub account
+subject= verification email for your datahub account
+subject_help=Questions by user
+body=Datahub
+url=http://127.0.0.1:3000/
