@@ -1,0 +1,5 @@
+[submodule "datahub-ui"]
+	path = datahubui
+	url = https://github.com/success4us/datahub-ui.git
+[submodules "datahubui"]
+	branch = dev
